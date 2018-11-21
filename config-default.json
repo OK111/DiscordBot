@@ -1,10 +1,5 @@
 {
-    "token": "",
-    "SqlHost": "",
-    "SqlUser": "",
-    "SqlPassword": "",
-    "KeyPasteID": "",
-    "ConditionTextPasteID": "",
-    "groupID": "",
-    "ownerID": ""
+    "DiscordAppID":"",
+    "DiscordClientID":"",
+    "YTApiKey":""
 }
